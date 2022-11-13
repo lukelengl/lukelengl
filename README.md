@@ -7,3 +7,4 @@ Welcome to my GitHub profile. Here's a few personal projects I've built on the s
 ## 🔗 Other Sites
 * [LinkedIn](https://linkedin.com/in/lukelengl/)
 * [Personal Website](https://lukelengl.com)
+* <a rel="me" href="https://home.social/@lukelengl">Mastodon</a>
